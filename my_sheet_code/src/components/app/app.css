@@ -1,0 +1,23 @@
+.btn-custom {
+    color: #fff;
+    background-color: #ff9600;
+    border-color: #ffb100;
+}
+
+.btn-custom:hover {
+    color: #fff;
+    background-color: #ff6a00;
+    border-color: #ff8500;
+}
+
+.btn-custom:focus {
+    color: #fff;
+    background-color: #ff6a00;
+    border-color: #ff8500;
+}
+
+.btn-custom:active {
+    color: #fff;
+    background-color: #ff6a00;
+    border-color: #ff8500;
+}
