@@ -1,9 +1,13 @@
 import PeoplePage from "./people-page";
-import PlanetPage from "./planets-page";
-import StarshipPage from "./starships-paje";
+import PlanetsPage from "./planets-page";
+import StarshipsPage from "./starships-page";
+import SecretPage from "./secret-page";
+import LoginPage from "./login-page";
 
 export {
     PeoplePage,
-    PlanetPage,
-    StarshipPage
+    PlanetsPage,
+    StarshipsPage,
+    SecretPage,
+    LoginPage,
 };
